@@ -1,0 +1,1044 @@
+[
+  {
+    "branch_code": "BR_001",
+    "branch_name": "Branch Mumbai West",
+    "branch_type": "Main Branch",
+    "ifsc_code": "BANK0000001",
+    "micr_code": "324976773",
+    "address": {
+      "street_address": "Plot 100, MG Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "591707",
+      "landmark": "Near School"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-76682693",
+        "080-47386200"
+      ],
+      "email": "branch001@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_63",
+      "total_employees": 23,
+      "customer_service_officers": 7
+    },
+    "services_offered": [
+      "Fixed Deposits",
+      "Credit Cards",
+      "Current Account",
+      "Forex",
+      "Insurance",
+      "Lockers",
+      "Savings Account",
+      "Mutual Funds"
+    ],
+    "region": "South",
+    "establishment_date": "1983-11-19",
+    "license_number": "LIC726968",
+    "is_active": true,
+    "last_audit_date": "2023-06-09",
+    "compliance_score": 87.6,
+    "created_timestamp": "1998-01-13T10:00:00Z",
+    "last_updated": "2024-11-06T17:46:47Z"
+  },
+  {
+    "branch_code": "BR_002",
+    "branch_name": "Branch Delhi East",
+    "branch_type": "Extension Counter",
+    "ifsc_code": "BANK0000002",
+    "micr_code": "222031750",
+    "address": {
+      "street_address": "Plot 893, Commercial Complex",
+      "city": "Delhi",
+      "state": "Delhi",
+      "pincode": "988073",
+      "landmark": "Near Hospital"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-55151311",
+        "080-20521740"
+      ],
+      "email": "branch002@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Saturday",
+      "atm_available": true,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_36",
+      "total_employees": 23,
+      "customer_service_officers": 2
+    },
+    "services_offered": [
+      "Credit Cards",
+      "Savings Account",
+      "Insurance",
+      "Mutual Funds",
+      "Forex",
+      "Fixed Deposits"
+    ],
+    "region": "West",
+    "establishment_date": "1983-11-08",
+    "license_number": "LIC767488",
+    "is_active": true,
+    "last_audit_date": "2022-02-05",
+    "compliance_score": 91.6,
+    "created_timestamp": "1990-05-27T10:00:00Z",
+    "last_updated": "2023-03-14T19:42:47Z"
+  },
+  {
+    "branch_code": "BR_003",
+    "branch_name": "Branch Bangalore East",
+    "branch_type": "Main Branch",
+    "ifsc_code": "BANK0000003",
+    "micr_code": "599015122",
+    "address": {
+      "street_address": "Plot 19, Commercial Complex",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "pincode": "223655",
+      "landmark": "Near Bus Stand"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-21113528",
+        "080-30489847"
+      ],
+      "email": "branch003@bank.com",
+      "fax": "080-29066817"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": false,
+      "wheelchair_accessible": false
+    },
+    "staff_details": {
+      "branch_manager": "Manager_45",
+      "total_employees": 43,
+      "customer_service_officers": 10
+    },
+    "services_offered": [
+      "Mutual Funds",
+      "Lockers",
+      "Credit Cards",
+      "Insurance",
+      "Fixed Deposits",
+      "Forex",
+      "Current Account",
+      "Savings Account"
+    ],
+    "region": "North",
+    "establishment_date": "1986-03-27",
+    "license_number": "LIC456898",
+    "is_active": true,
+    "last_audit_date": "2024-12-21",
+    "compliance_score": 95.4,
+    "created_timestamp": "1981-08-19T10:00:00Z",
+    "last_updated": "2023-12-10T17:56:45Z"
+  },
+  {
+    "branch_code": "BR_004",
+    "branch_name": "Branch Chennai North",
+    "branch_type": "Sub Branch",
+    "ifsc_code": "BANK0000004",
+    "micr_code": "371575137",
+    "address": {
+      "street_address": "Plot 655, Main Street",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "848219",
+      "landmark": "Near Bus Stand"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-60077710",
+        "080-64509249"
+      ],
+      "email": "branch004@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_77",
+      "total_employees": 11,
+      "customer_service_officers": 3
+    },
+    "services_offered": [
+      "Mutual Funds",
+      "Credit Cards",
+      "Lockers",
+      "Fixed Deposits"
+    ],
+    "region": "Central",
+    "establishment_date": "1988-01-19",
+    "license_number": "LIC939670",
+    "is_active": true,
+    "last_audit_date": "2023-11-11",
+    "compliance_score": 82.3,
+    "created_timestamp": "1990-04-15T10:00:00Z",
+    "last_updated": "2024-04-13T03:55:43Z"
+  },
+  {
+    "branch_code": "BR_005",
+    "branch_name": "Branch Kolkata Central",
+    "branch_type": "ATM Center",
+    "ifsc_code": "BANK0000005",
+    "micr_code": "760015806",
+    "address": {
+      "street_address": "Plot 844, Main Street",
+      "city": "Kolkata",
+      "state": "West Bengal",
+      "pincode": "225882",
+      "landmark": "Near School"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-83445621",
+        "080-36846832"
+      ],
+      "email": "branch005@bank.com",
+      "fax": "080-20022859"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": true,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_40",
+      "total_employees": 12,
+      "customer_service_officers": 9
+    },
+    "services_offered": [
+      "Insurance",
+      "Lockers",
+      "Current Account",
+      "Loans",
+      "Forex",
+      "Fixed Deposits"
+    ],
+    "region": "North",
+    "establishment_date": "1996-11-24",
+    "license_number": "LIC331221",
+    "is_active": true,
+    "last_audit_date": "2024-11-28",
+    "compliance_score": 78.8,
+    "created_timestamp": "1994-04-12T10:00:00Z",
+    "last_updated": "2023-06-20T22:30:19Z"
+  },
+  {
+    "branch_code": "BR_006",
+    "branch_name": "Branch Hyderabad North",
+    "branch_type": "ATM Center",
+    "ifsc_code": "BANK0000006",
+    "micr_code": "392898341",
+    "address": {
+      "street_address": "Plot 373, Commercial Complex",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "421810",
+      "landmark": "Near Metro Station"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-30620320",
+        "080-89768119"
+      ],
+      "email": "branch006@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "14:00",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": false,
+      "wheelchair_accessible": false
+    },
+    "staff_details": {
+      "branch_manager": "Manager_25",
+      "total_employees": 50,
+      "customer_service_officers": 9
+    },
+    "services_offered": [
+      "Fixed Deposits",
+      "Current Account",
+      "Forex",
+      "Savings Account"
+    ],
+    "region": "East",
+    "establishment_date": "1997-04-06",
+    "license_number": "LIC627265",
+    "is_active": true,
+    "last_audit_date": "2022-01-01",
+    "compliance_score": 98.9,
+    "created_timestamp": "1991-01-28T10:00:00Z",
+    "last_updated": "2024-12-27T15:54:54Z"
+  },
+  {
+    "branch_code": "BR_007",
+    "branch_name": "Branch Pune Main",
+    "branch_type": "Sub Branch",
+    "ifsc_code": "BANK0000007",
+    "micr_code": "620097957",
+    "address": {
+      "street_address": "Plot 505, Commercial Complex",
+      "city": "Pune",
+      "state": "Gujarat",
+      "pincode": "231408",
+      "landmark": "Near Metro Station"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-93253931",
+        "080-99164708"
+      ],
+      "email": "branch007@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": true,
+      "wheelchair_accessible": false
+    },
+    "staff_details": {
+      "branch_manager": "Manager_90",
+      "total_employees": 15,
+      "customer_service_officers": 7
+    },
+    "services_offered": [
+      "Credit Cards",
+      "Loans",
+      "Mutual Funds",
+      "Lockers"
+    ],
+    "region": "West",
+    "establishment_date": "1996-11-19",
+    "license_number": "LIC863217",
+    "is_active": true,
+    "last_audit_date": "2024-11-25",
+    "compliance_score": 81.1,
+    "created_timestamp": "1994-07-25T10:00:00Z",
+    "last_updated": "2024-07-11T19:07:24Z"
+  },
+  {
+    "branch_code": "BR_008",
+    "branch_name": "Branch Ahmedabad North",
+    "branch_type": "Main Branch",
+    "ifsc_code": "BANK0000008",
+    "micr_code": "367213686",
+    "address": {
+      "street_address": "Plot 72, Commercial Complex",
+      "city": "Ahmedabad",
+      "state": "Rajasthan",
+      "pincode": "721453",
+      "landmark": "Near Hospital"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-91433708",
+        "080-34108405"
+      ],
+      "email": "branch008@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Saturday",
+      "atm_available": false,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_48",
+      "total_employees": 10,
+      "customer_service_officers": 6
+    },
+    "services_offered": [
+      "Current Account",
+      "Savings Account",
+      "Forex",
+      "Credit Cards",
+      "Mutual Funds"
+    ],
+    "region": "North",
+    "establishment_date": "1981-03-06",
+    "license_number": "LIC197091",
+    "is_active": true,
+    "last_audit_date": "2024-05-19",
+    "compliance_score": 78.5,
+    "created_timestamp": "1990-07-18T10:00:00Z",
+    "last_updated": "2023-05-18T05:11:32Z"
+  },
+  {
+    "branch_code": "BR_009",
+    "branch_name": "Branch Jaipur South",
+    "branch_type": "Extension Counter",
+    "ifsc_code": "BANK0000009",
+    "micr_code": "724377402",
+    "address": {
+      "street_address": "Plot 846, Main Street",
+      "city": "Jaipur",
+      "state": "Uttar Pradesh",
+      "pincode": "564568",
+      "landmark": "Near School"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-91743619",
+        "080-38210349"
+      ],
+      "email": "branch009@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "14:00",
+      "working_days": "Monday to Friday",
+      "atm_available": false,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_88",
+      "total_employees": 47,
+      "customer_service_officers": 4
+    },
+    "services_offered": [
+      "Mutual Funds",
+      "Lockers",
+      "Credit Cards",
+      "Savings Account"
+    ],
+    "region": "South",
+    "establishment_date": "1989-04-14",
+    "license_number": "LIC384719",
+    "is_active": true,
+    "last_audit_date": "2024-04-25",
+    "compliance_score": 90.2,
+    "created_timestamp": "1996-01-14T10:00:00Z",
+    "last_updated": "2023-04-15T11:33:50Z"
+  },
+  {
+    "branch_code": "BR_010",
+    "branch_name": "Branch Lucknow West",
+    "branch_type": "Main Branch",
+    "ifsc_code": "BANK0000010",
+    "micr_code": "541340413",
+    "address": {
+      "street_address": "Plot 663, Main Street",
+      "city": "Lucknow",
+      "state": "Maharashtra",
+      "pincode": "241490",
+      "landmark": "Near Bus Stand"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-92301279",
+        "080-65506574"
+      ],
+      "email": "branch010@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": false,
+      "parking_available": false,
+      "wheelchair_accessible": false
+    },
+    "staff_details": {
+      "branch_manager": "Manager_67",
+      "total_employees": 38,
+      "customer_service_officers": 6
+    },
+    "services_offered": [
+      "Current Account",
+      "Loans",
+      "Lockers",
+      "Mutual Funds"
+    ],
+    "region": "North",
+    "establishment_date": "1980-11-16",
+    "license_number": "LIC707051",
+    "is_active": true,
+    "last_audit_date": "2023-05-12",
+    "compliance_score": 93.8,
+    "created_timestamp": "1992-05-15T10:00:00Z",
+    "last_updated": "2023-11-04T23:39:40Z"
+  },
+  {
+    "branch_code": "BR_011",
+    "branch_name": "Branch Mumbai Main",
+    "branch_type": "Extension Counter",
+    "ifsc_code": "BANK0000011",
+    "micr_code": "431373305",
+    "address": {
+      "street_address": "Plot 407, MG Road",
+      "city": "Mumbai",
+      "state": "Delhi",
+      "pincode": "546606",
+      "landmark": "Near Bus Stand"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-79184706",
+        "080-36229303"
+      ],
+      "email": "branch011@bank.com",
+      "fax": "080-42356498"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": false,
+      "parking_available": true,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_43",
+      "total_employees": 47,
+      "customer_service_officers": 6
+    },
+    "services_offered": [
+      "Credit Cards",
+      "Mutual Funds",
+      "Fixed Deposits",
+      "Savings Account",
+      "Lockers",
+      "Current Account"
+    ],
+    "region": "East",
+    "establishment_date": "1999-07-09",
+    "license_number": "LIC922038",
+    "is_active": true,
+    "last_audit_date": "2022-06-10",
+    "compliance_score": 77.9,
+    "created_timestamp": "1997-10-09T10:00:00Z",
+    "last_updated": "2023-08-14T13:44:40Z"
+  },
+  {
+    "branch_code": "BR_012",
+    "branch_name": "Branch Delhi Central",
+    "branch_type": "Sub Branch",
+    "ifsc_code": "BANK0000012",
+    "micr_code": "635763313",
+    "address": {
+      "street_address": "Plot 942, Commercial Complex",
+      "city": "Delhi",
+      "state": "Karnataka",
+      "pincode": "749489",
+      "landmark": "Near Metro Station"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-36348431",
+        "080-79847369"
+      ],
+      "email": "branch012@bank.com",
+      "fax": "080-72678128"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Saturday",
+      "atm_available": true,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_72",
+      "total_employees": 46,
+      "customer_service_officers": 5
+    },
+    "services_offered": [
+      "Lockers",
+      "Insurance",
+      "Savings Account",
+      "Fixed Deposits",
+      "Mutual Funds",
+      "Loans",
+      "Current Account",
+      "Credit Cards"
+    ],
+    "region": "West",
+    "establishment_date": "1996-09-21",
+    "license_number": "LIC387480",
+    "is_active": true,
+    "last_audit_date": "2023-11-13",
+    "compliance_score": 91.4,
+    "created_timestamp": "1984-07-19T10:00:00Z",
+    "last_updated": "2023-12-02T07:04:20Z"
+  },
+  {
+    "branch_code": "BR_013",
+    "branch_name": "Branch Bangalore Central",
+    "branch_type": "Extension Counter",
+    "ifsc_code": "BANK0000013",
+    "micr_code": "740444082",
+    "address": {
+      "street_address": "Plot 442, Commercial Complex",
+      "city": "Bangalore",
+      "state": "Tamil Nadu",
+      "pincode": "507615",
+      "landmark": "Near Bus Stand"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-40168821",
+        "080-99962701"
+      ],
+      "email": "branch013@bank.com",
+      "fax": "080-99667698"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Saturday",
+      "atm_available": false,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_45",
+      "total_employees": 23,
+      "customer_service_officers": 8
+    },
+    "services_offered": [
+      "Loans",
+      "Credit Cards",
+      "Savings Account",
+      "Current Account",
+      "Fixed Deposits",
+      "Lockers",
+      "Forex"
+    ],
+    "region": "West",
+    "establishment_date": "1985-02-05",
+    "license_number": "LIC281199",
+    "is_active": true,
+    "last_audit_date": "2022-09-19",
+    "compliance_score": 73.0,
+    "created_timestamp": "1982-09-05T10:00:00Z",
+    "last_updated": "2024-10-06T02:13:06Z"
+  },
+  {
+    "branch_code": "BR_014",
+    "branch_name": "Branch Chennai West",
+    "branch_type": "ATM Center",
+    "ifsc_code": "BANK0000014",
+    "micr_code": "940450634",
+    "address": {
+      "street_address": "Plot 980, Commercial Complex",
+      "city": "Chennai",
+      "state": "West Bengal",
+      "pincode": "695137",
+      "landmark": "Near Bus Stand"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-70662707",
+        "080-99060190"
+      ],
+      "email": "branch014@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_11",
+      "total_employees": 36,
+      "customer_service_officers": 6
+    },
+    "services_offered": [
+      "Savings Account",
+      "Insurance",
+      "Fixed Deposits",
+      "Credit Cards",
+      "Lockers",
+      "Current Account",
+      "Forex",
+      "Loans"
+    ],
+    "region": "East",
+    "establishment_date": "1983-01-24",
+    "license_number": "LIC568227",
+    "is_active": true,
+    "last_audit_date": "2023-05-17",
+    "compliance_score": 77.2,
+    "created_timestamp": "1994-05-28T10:00:00Z",
+    "last_updated": "2024-10-03T22:03:17Z"
+  },
+  {
+    "branch_code": "BR_015",
+    "branch_name": "Branch Kolkata East",
+    "branch_type": "ATM Center",
+    "ifsc_code": "BANK0000015",
+    "micr_code": "613670276",
+    "address": {
+      "street_address": "Plot 976, Main Street",
+      "city": "Kolkata",
+      "state": "Telangana",
+      "pincode": "387410",
+      "landmark": "Near Mall"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-38272971",
+        "080-20594809"
+      ],
+      "email": "branch015@bank.com",
+      "fax": "080-32552472"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": false,
+      "parking_available": false,
+      "wheelchair_accessible": false
+    },
+    "staff_details": {
+      "branch_manager": "Manager_98",
+      "total_employees": 24,
+      "customer_service_officers": 8
+    },
+    "services_offered": [
+      "Forex",
+      "Loans",
+      "Mutual Funds",
+      "Savings Account",
+      "Lockers",
+      "Credit Cards"
+    ],
+    "region": "South",
+    "establishment_date": "1992-07-22",
+    "license_number": "LIC854424",
+    "is_active": true,
+    "last_audit_date": "2023-11-17",
+    "compliance_score": 73.6,
+    "created_timestamp": "1988-08-19T10:00:00Z",
+    "last_updated": "2023-01-02T05:53:56Z"
+  },
+  {
+    "branch_code": "BR_016",
+    "branch_name": "Branch Hyderabad North",
+    "branch_type": "Main Branch",
+    "ifsc_code": "BANK0000016",
+    "micr_code": "529601722",
+    "address": {
+      "street_address": "Plot 470, MG Road",
+      "city": "Hyderabad",
+      "state": "Gujarat",
+      "pincode": "206000",
+      "landmark": "Near Bus Stand"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-98610935",
+        "080-28183355"
+      ],
+      "email": "branch016@bank.com",
+      "fax": "080-79175454"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Saturday",
+      "atm_available": false,
+      "parking_available": true,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_44",
+      "total_employees": 37,
+      "customer_service_officers": 5
+    },
+    "services_offered": [
+      "Fixed Deposits",
+      "Current Account",
+      "Savings Account",
+      "Mutual Funds",
+      "Insurance",
+      "Loans",
+      "Forex",
+      "Credit Cards"
+    ],
+    "region": "North",
+    "establishment_date": "1989-09-14",
+    "license_number": "LIC292845",
+    "is_active": true,
+    "last_audit_date": "2023-05-11",
+    "compliance_score": 71.5,
+    "created_timestamp": "1996-01-07T10:00:00Z",
+    "last_updated": "2023-11-19T04:25:07Z"
+  },
+  {
+    "branch_code": "BR_017",
+    "branch_name": "Branch Pune Central",
+    "branch_type": "Main Branch",
+    "ifsc_code": "BANK0000017",
+    "micr_code": "752076133",
+    "address": {
+      "street_address": "Plot 316, MG Road",
+      "city": "Pune",
+      "state": "Rajasthan",
+      "pincode": "180144",
+      "landmark": "Near Mall"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-79252543",
+        "080-54644632"
+      ],
+      "email": "branch017@bank.com",
+      "fax": "080-28669960"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": true,
+      "parking_available": true,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_66",
+      "total_employees": 40,
+      "customer_service_officers": 5
+    },
+    "services_offered": [
+      "Insurance",
+      "Fixed Deposits",
+      "Loans",
+      "Forex",
+      "Savings Account",
+      "Lockers",
+      "Current Account",
+      "Mutual Funds"
+    ],
+    "region": "Central",
+    "establishment_date": "1997-10-01",
+    "license_number": "LIC531907",
+    "is_active": true,
+    "last_audit_date": "2022-04-17",
+    "compliance_score": 99.9,
+    "created_timestamp": "1992-03-18T10:00:00Z",
+    "last_updated": "2023-06-16T20:21:28Z"
+  },
+  {
+    "branch_code": "BR_018",
+    "branch_name": "Branch Ahmedabad South",
+    "branch_type": "ATM Center",
+    "ifsc_code": "BANK0000018",
+    "micr_code": "206447496",
+    "address": {
+      "street_address": "Plot 982, Commercial Complex",
+      "city": "Ahmedabad",
+      "state": "Uttar Pradesh",
+      "pincode": "681810",
+      "landmark": "Near Mall"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-96730872",
+        "080-94452860"
+      ],
+      "email": "branch018@bank.com",
+      "fax": "080-43651672"
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Saturday",
+      "atm_available": false,
+      "parking_available": true,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_37",
+      "total_employees": 14,
+      "customer_service_officers": 10
+    },
+    "services_offered": [
+      "Loans",
+      "Credit Cards",
+      "Forex",
+      "Mutual Funds",
+      "Savings Account"
+    ],
+    "region": "Central",
+    "establishment_date": "1983-09-07",
+    "license_number": "LIC311516",
+    "is_active": true,
+    "last_audit_date": "2022-04-11",
+    "compliance_score": 96.0,
+    "created_timestamp": "1996-07-28T10:00:00Z",
+    "last_updated": "2023-10-13T12:35:07Z"
+  },
+  {
+    "branch_code": "BR_019",
+    "branch_name": "Branch Jaipur East",
+    "branch_type": "ATM Center",
+    "ifsc_code": "BANK0000019",
+    "micr_code": "998328567",
+    "address": {
+      "street_address": "Plot 325, Commercial Complex",
+      "city": "Jaipur",
+      "state": "Maharashtra",
+      "pincode": "960850",
+      "landmark": "Near Metro Station"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-49030087",
+        "080-36975792"
+      ],
+      "email": "branch019@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": false,
+      "parking_available": true,
+      "wheelchair_accessible": false
+    },
+    "staff_details": {
+      "branch_manager": "Manager_8",
+      "total_employees": 31,
+      "customer_service_officers": 5
+    },
+    "services_offered": [
+      "Lockers",
+      "Mutual Funds",
+      "Loans",
+      "Forex",
+      "Current Account",
+      "Fixed Deposits",
+      "Insurance"
+    ],
+    "region": "East",
+    "establishment_date": "1980-03-19",
+    "license_number": "LIC995672",
+    "is_active": true,
+    "last_audit_date": "2024-10-19",
+    "compliance_score": 87.3,
+    "created_timestamp": "1998-07-27T10:00:00Z",
+    "last_updated": "2024-02-27T14:17:02Z"
+  },
+  {
+    "branch_code": "BR_020",
+    "branch_name": "Branch Lucknow North",
+    "branch_type": "Sub Branch",
+    "ifsc_code": "BANK0000020",
+    "micr_code": "317336481",
+    "address": {
+      "street_address": "Plot 451, Commercial Complex",
+      "city": "Lucknow",
+      "state": "Delhi",
+      "pincode": "630660",
+      "landmark": "Near School"
+    },
+    "contact_details": {
+      "phone_numbers": [
+        "080-50485352",
+        "080-71494491"
+      ],
+      "email": "branch020@bank.com",
+      "fax": null
+    },
+    "operational_details": {
+      "opening_time": "09:30",
+      "closing_time": "16:30",
+      "working_days": "Monday to Friday",
+      "atm_available": false,
+      "parking_available": false,
+      "wheelchair_accessible": true
+    },
+    "staff_details": {
+      "branch_manager": "Manager_98",
+      "total_employees": 35,
+      "customer_service_officers": 2
+    },
+    "services_offered": [
+      "Lockers",
+      "Credit Cards",
+      "Fixed Deposits",
+      "Forex",
+      "Loans"
+    ],
+    "region": "Central",
+    "establishment_date": "1988-10-10",
+    "license_number": "LIC720420",
+    "is_active": true,
+    "last_audit_date": "2022-11-02",
+    "compliance_score": 95.3,
+    "created_timestamp": "1983-01-23T10:00:00Z",
+    "last_updated": "2024-01-14T12:26:35Z"
+  },
+  {
+    "branch_code": "BR_BAD_01",
+    "branch_name": null,
+    "ifsc_code": null,
+    "address": null,
+    "is_active": true
+  },
+  {
+    "branch_code": "BR_BAD_02",
+    "branch_name": null,
+    "ifsc_code": null,
+    "address": null,
+    "is_active": true
+  },
+  {
+    "branch_code": "BR_BAD_03",
+    "branch_name": null,
+    "ifsc_code": null,
+    "address": null,
+    "is_active": true
+  }
+]
